@@ -5,4 +5,4 @@ Ballistics Computer: Accounts for the curvature of the earth; rotational inertia
 
 ScatteringSMX: An example of code I've written for the NANOGrav collaboration - This is a timing component to model a time-varying scattering effect on timing data
 
-Eigmap Small Thetas: An example of a small investigation I made into the eigenvector decomposition method currently used to calculate scintillation waveforms
+Eigmap Small Thetas: An example of a small investigation I did for a research project with Prof. Dan Stinebring in late 2021. I focused on the eigenvector decomposition method currently used to calculate scintillation waveforms, specifically on the case of fine structure scintillation
